@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# Google credentials
+credentials.json
+
+# Excel files
+*.xlsx
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
